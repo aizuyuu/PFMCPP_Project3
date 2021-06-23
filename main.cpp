@@ -54,59 +54,59 @@ Thing: Car Wash
  */
 
 /*
-Thing 1)
+Thing 1) school
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of classes
+    2) number of teachers
+    3) number of students
+    4) number of new students each year
+    5) number of graduated students
 3 things it can do:
-    1)
-    2)
-    3)
+    1) teach students
+    2) charge parents
+    3) make students socialize
  */
 
 /*
-Thing 2)
+Thing 2) snack factory
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of products produced each day
+    2) amount of ingredients ordered each week
+    3) amount of money for ordering ingredients
+    4) number of workers
+    5) number of packaging machines
 3 things it can do:
-    1)
-    2)
-    3)
+    1) produce snacks
+    2) distribute snacks
+    3) recruit workers
  */
 
 /*
-Thing 3)
+Thing 3) coffee shop
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) amount of coffee in stock
+    2) number of coffee maker machines
+    3) net sales per day
+    4) number of seats available
+    5) number of cups to wash
 3 things it can do:
-    1)
-    2)
-    3)
+    1) serve coffee
+    2) give customers place to laze around
+    3) sell snacks
  */
 
 /*
-Thing 4)
+Thing 4) guitar amp
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) number of speakers
+    2) number of bands in the EQ
+    3) amount of gain
+    4) number of output speaker impedance options
+    5) types of effects
 3 things it can do:
-    1)
-    2)
-    3)
+    1) amplify guitar sound
+    2) equalize guitar tone
+    3) change guitar sound
  */
 
 
