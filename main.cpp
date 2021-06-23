@@ -111,17 +111,17 @@ Thing 4) guitar amp
  */
 
 /*
-Thing 10)
+Thing 10) front door
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) door knob
+    2) lock
+    3) hinge
+    4) door frame
+    5) eye viewer
 3 things it can do:
-    1)
-    2)
-    3)
+    1) make way into the house
+    2) separate inside and outside of house
+    3) make creaky sound
  */
 
 
