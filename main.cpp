@@ -125,73 +125,73 @@ Thing 4) guitar amp
  */
 
 /*
-Thing 5)
+Thing 5) door knob
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) knob type
+    2) color
+    3) length in cm
+    4) y position from ground
+    5) spring tension
 3 things it can do:
-    1)
-    2)
-    3)
+    1) twist
+    2) make door usable
+    3) pull stopper
  */
 
 /*
-Thing 6)
+Thing 6) lock
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) lock type
+    2) key type
+    3) number of key turns
+    4) key length in mm
+    5) hole depth in mm
 3 things it can do:
-    1)
-    2)
-    3)
+    1) locks door movement
+    2) disable knob
+    3) receive key
  */
 
 /*
-Thing 7)
+Thing 7) hinge
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) length in cm
+    2) number of screws
+    3) y position
+    4) hinge type
+    5) screw type
 3 things it can do:
-    1)
-    2)
-    3)
+    1) join door panel onto door frame
+    2) make creaky sound
+    3) swing door panel
  */
 
 /*
-Thing 8)
+Thing 8) door frame
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) length in m
+    2) width in m
+    3) depth in cm
+    4) wood type
+    5) color
 3 things it can do:
-    1)
-    2)
-    3)
+    1) limit door movement
+    2) hold door panel
+    3) hold wall
  */
 
 /*
-Thing 9)
+Thing 9) eye viewer
 5 properties:
-    1)
-    2)
-    3)
-    4)
-    5)
+    1) viewer type
+    2) lens diameter
+    3) depth in mm
+    4) amount of zoom
+    5) lens angle of view
 3 things it can do:
-    1)
-    2)
-    3)
+    1) project image from outside
+    2) zoom image from outside
+    3) block projection from inside
  */
 
 /*
